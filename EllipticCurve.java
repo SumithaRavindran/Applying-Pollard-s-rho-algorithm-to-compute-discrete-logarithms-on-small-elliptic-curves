@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Deeksha & Sumitha
+ * @author Sumitha
  */
 import java.math.BigInteger;
 import java.util.Scanner;
